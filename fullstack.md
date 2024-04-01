@@ -1,4 +1,5 @@
 Full Stack Development Roadmap-
+
 This repository contains a roadmap for full-stack development, detailing the skills, languages, databases, and other technologies required to become proficient in building both frontend and backend components of web applications.
 
 Skills Required:-
