@@ -16,24 +16,25 @@ Frontend Technologies:-
 
 
 Backend Technologies:-
+
   1)Server-Side Programming:  Learn a server-side programming language like Python, Node.js, Java, or PHP to handle server logic and database interactions.
 
-     2)Python: A general-purpose language known for its readability and vast libraries, making it a great choice for beginners.
+   2)Python: A general-purpose language known for its readability and vast libraries, making it a great choice for beginners.
 
-     3)Node.js: A JavaScript runtime environment that allows you to run JavaScript code outside the browser, perfect for building real-time applications.
+   3)Node.js: A JavaScript runtime environment that allows you to run JavaScript code outside the browser, perfect for building real-time applications.
 
-    4)Java: An object-oriented language widely used in enterprise applications.
+   4)Java: An object-oriented language widely used in enterprise applications.
                   OR
     5)PHP: A popular language for server-side scripting, especially for web development.
 
-    6)Databases:  Learn how to store, manage, and retrieve data using relational databases like MySQL or PostgreSQL, or NoSQL databases like MongoDB.
+   6)Databases:  Learn how to store, manage, and retrieve data using relational databases like MySQL or PostgreSQL, or NoSQL databases like MongoDB.
 
-    7)MySQL: A popular open-source relational database management system.
+   7)MySQL: A popular open-source relational database management system.
 
 
-    MongoDB: A popular NoSQL database known for its flexibility and scalability.
+   MongoDB: A popular NoSQL database known for its flexibility and scalability.
  
-    8)APIs:  Learn how to build and consume APIs (Application Programming Interfaces) to create modular and reusable code.
+   8)APIs:  Learn how to build and consume APIs (Application Programming Interfaces) to create modular and reusable code.
 
 Backend Frameworks: 
 Explore frameworks like Django (Python), Express.js (Node.js), Spring Boot (Java), or Laravel (PHP) to streamline backend development. 
