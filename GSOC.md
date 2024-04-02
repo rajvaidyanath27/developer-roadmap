@@ -32,8 +32,10 @@ proposal
 Usefull Links for GSOC-
 
 
-Gsoc Homepage
-GSOC archive
-Proposal Example
-FAQ
-Stipend Detail
+Gsoc Homepage-  https://summerofcode.withgoogle.com/
+
+GSOC archive - https://summerofcode.withgoogle.com/archive
+
+Gsoc Rules  - https://summerofcode.withgoogle.com/rules
+
+Stipend Detail -  https://developers.google.com/open-source/gsoc/help/student-stipends
