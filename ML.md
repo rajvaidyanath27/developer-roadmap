@@ -1,82 +1,71 @@
 Machine Learning And Deep Learning
+
 This Roadmap is divided into two major parts:
 
-Machine Learnong
-Deep Learning
+  1 .Machine Learning
+  2. Deep Learning
+  
 Prerequisites
+
 Before starting ML or DL you need some basic understnading of underlying topics : --
 
-1.Linear Algebra
+  1.Linear Algebra
 
-2.Calculus
+  2.Calculus
 
-3.Probability
+  3.Probability
 
-4.Algorithms
+  4.Algorithms
 
-5.Python , R or javascript (Depends on you)
-
-Language Resources
-Python
-1.Sentdex
-
-2.Corey Schafer
-
-3.udemy
-
-4.Telusko/Python Tutorial for Beginners
-
-5.pythonbook
+  5.Python , R or javascript (Depends on you)
 
 Maths for ML
-1.Linear Algebra
 
-2.Calculus visual
+  1.Linear Algebra
 
-3.Calculus Theory
+  2.Calculus visual
 
-4.Linear Algebra EBook
+  3.Calculus Theory
+
+  4.Linear Algebra EBook
 
 Note : you only need derivatives
 
 4.Probability
 
 Fameworks
-1.Keras (Easy for beginners)
 
-2.PyTorch
+  1.Keras (Easy for beginners)
 
-Learn PyTorch
+  2.PyTorch
 
-3.Tensoflow
+  Learn PyTorch
+
+  3.Tensoflow
 
 Learn Tensorflow
 
 Machine Learning
-Andrew Ng Coursera this highly recommended.
 
-Andrew Ng Youtube alternative
+  Andrew Ng Coursera this highly recommended.
 
-Machine Learning Lectures- Stanford
+  Andrew Ng Youtube alternative
 
-Google ML Crash Course
+  Machine Learning Lectures- Stanford
+
+  Google ML Crash Course
 
 Dive into Machine Learning
 
-Deep Learning
-How Neural Networks Woks?
-Neural Network
-
-Friendly Introduction to Neural Network
-1.Part1
-
-2.Part2
+  Deep Learning
+  How Neural Networks Woks?
+  Neural Network
 
 Start Deep Learning
-Fast.ai provides you in depth knowledge of Neural Networks in a practical way without going to much detalis of maths behind of it.
+ Fast.ai provides you in depth knowledge of Neural Networks in a practical way without going to much detalis of maths behind of it.
 
 Deep Learning Specialization by Coursera
-This is specialization consist of 5 courses :
+ This is specialization consist of 5 courses :
 
 1.Neural Networks and Deep Learning
 
@@ -88,16 +77,11 @@ This is specialization consist of 5 courses :
 
 5.Sequence Models
 
-Computer Vision
-1.Stanford CS231n
-
-2.Coursera can only be accessed free through galgotias mail id
-
 NLP
-1.Standford CS224N
+ 1.Standford CS224N
 
 SVM
-1.MIT courseware
+ 1.MIT courseware
 
 Blogs to Follow
 1.Towards DataScience
@@ -128,4 +112,4 @@ Peoples to follow on Twitter
 
 @jeffdean
 
-@fchollet
+fchollet
