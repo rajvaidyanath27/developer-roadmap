@@ -2,56 +2,56 @@ Machine Learning And Deep Learning
 
 This Roadmap is divided into two major parts:
 
-  1 .Machine Learning
-  2. Deep Learning
+   1 .Machine Learning
+   2. Deep Learning
   
 Prerequisites
 
 Before starting ML or DL you need some basic understnading of underlying topics : --
 
-  1.Linear Algebra
+   1.Linear Algebra
 
-  2.Calculus
+   2.Calculus
 
-  3.Probability
+   3.Probability
 
-  4.Algorithms
+   4.Algorithms
 
-  5.Python , R or javascript (Depends on you)
+   5.Python , R or javascript (Depends on you)
 
 Maths for ML
 
-  1.Linear Algebra
+   1.Linear Algebra
 
-  2.Calculus visual
+   2.Calculus visual
 
-  3.Calculus Theory
+   3.Calculus Theory
 
-  4.Linear Algebra EBook
+   4.Linear Algebra EBook
 
 Note : you only need derivatives
 
-4.Probability
+  5.Probability
 
 Fameworks
 
-  1.Keras (Easy for beginners)
+   1.Keras (Easy for beginners)
 
-  2.PyTorch
+   2.PyTorch
 
-  Learn PyTorch
+   Learn PyTorch
 
-  3.Tensoflow
+   3.Tensoflow
 
 Learn Tensorflow
 
 Machine Learning
 
-  Andrew Ng Coursera this highly recommended.
+   Andrew Ng Coursera this highly recommended.
 
-  Andrew Ng Youtube alternative
+   Andrew Ng Youtube alternative
 
-  Machine Learning Lectures- Stanford
+   Machine Learning Lectures- Stanford
 
   Google ML Crash Course
 
@@ -90,10 +90,10 @@ Blogs to Follow
 
 3.andrew trask
 
-AI Podcasts
+AI Podcasts--
 1.Lex Fridman
 
-Peoples to follow on Twitter
+Peoples to follow on Twitter-
 @ylecun
 
 @rsalakhu
@@ -112,4 +112,4 @@ Peoples to follow on Twitter
 
 @jeffdean
 
-fchollet
+
