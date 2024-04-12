@@ -57,7 +57,7 @@ MEAN Stack: combines MongoDB, Express.js, Angular, and Node.js.
 
 Version Control and Collaboration:-
  1) Git: Proficiency in using Git for version control, including branching, merging, and resolving conflicts.
- 2) Git Workflows: Understanding of Git workflows like GitFlow or GitHub Flow for effective collaboration in team environments.
+ 2) Git Workflows: Understanding of Git workflows like GitFlow or GitHub Flow for effective collaboration in team enviroments.
 
 
 
