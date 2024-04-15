@@ -22,4 +22,7 @@ YouTube Channels:
 Website to follow-
 
   1. https://learnuiux.in/
+  2. https://www.learnui.design/
+  3. https://uxcel.com/learn-ux-design
+  4. https://www.uxdesigninstitute.com/blog/ux-design-for-beginners/
 
