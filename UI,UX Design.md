@@ -10,14 +10,14 @@ UI/UX Designer Roadmap: Key Points-
   
   5.Consider specializing in a UI/UX niche.
   
-  6.Network with other designers to learn and grow.
+  6.Network with other designers to learn and gro
 
 YouTube Channels:
 
   1.Ansh Mehra: Excellent Figma tutorials and UI/UX design insights.
   
   2.Laith Wallace: Beginner-friendly UX Design tutorials and career advice.
-       High Resolution: In-depth interviews with design industry leaders.
+      
 
 Website to follow-
 
